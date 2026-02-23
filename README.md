@@ -1,6 +1,6 @@
 # operating-systems-chat-project
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A small collection of example chat programs implemented for operating-systems coursework.
@@ -125,6 +125,7 @@ Thank you to everyone who contributed to this project:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahmoudMedha"><img src="https://avatars.githubusercontent.com/u/208298621?v=4?s=100" width="100px;" alt="MahmoudMedha"/><br /><sub><b>MahmoudMedha</b></sub></a><br /><a href="https://github.com/IbraheemSultan/operating-systems-chat-project/commits?author=MahmoudMedha" title="Documentation">📖</a> <a href="https://github.com/IbraheemSultan/operating-systems-chat-project/commits?author=MahmoudMedha" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/IbraheemSultan"><img src="https://avatars.githubusercontent.com/u/70492711?v=4?s=100" width="100px;" alt="Ibraheem Mohammed Abd El-Twab Mohammed"/><br /><sub><b>Ibraheem Mohammed Abd El-Twab Mohammed</b></sub></a><br /><a href="https://github.com/IbraheemSultan/operating-systems-chat-project/commits?author=IbraheemSultan" title="Tests">⚠️</a> <a href="https://github.com/IbraheemSultan/operating-systems-chat-project/commits?author=IbraheemSultan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
