@@ -115,9 +115,13 @@ If you need help building or running the projects, open an issue or reach out to
 ## Contributors
 
 Thank you to everyone who contributed to this project:
+## 👥 Contributors
 
+<!-- ALL-CONTRIBUTORS-BADGE: START -->
+<!-- ALL-CONTRIBUTORS-BADGE: END -->
 - Ibraheem Mohammed — Leader
 - Mahmoud Medhat
 - Tarek Mostafa
 - Dr. Waffa Samy — "Doctor I will create project for you"
-
+<!-- ALL-CONTRIBUTORS-TABLE: START -->
+<!-- ALL-CONTRIBUTORS-TABLE: END -->
